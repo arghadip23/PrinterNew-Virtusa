@@ -1,0 +1,53 @@
+.main{
+    background: linear-gradient(135deg,#861657,#7CFFCB);
+    text-align: center;
+}
+.homeBody{
+  border-radius: .5em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  text-align: center;
+  width: 700px;
+}
+h1{
+   padding-top: 50px;
+}
+.pHome{
+    font-size: 20px;
+}
+.wrapper {
+   padding-top: 35px;
+}
+.b1{
+   float: left;
+}
+.b2{
+   float:right;
+}
+
+
+.ButtonClass{
+    background-color: #EEC0C6;
+    border:none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .ButtonClass:hover {
+    background-color: #9FA4C4;
+    color: white;
+  }
+.big{
+   font-family: 'Brush Script MT', cursive;
+}
+.pHome{
+   font-family: 'Brush Script MT', cursive;
+}
